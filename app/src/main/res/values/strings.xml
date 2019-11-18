@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My WebView Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_about_app">AboutAppActivity</string>
+    <string name="AboutAppStringValue">This is a test application for Mobile QA engineer course by Khalturin Anatoliy (homework _03)</string>
+</resources>
